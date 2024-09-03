@@ -1,0 +1,94 @@
+Here are some sample data to test the code of this project!!
+
+-------------------------------------------------------------------
+
+Data for MongoDB database (MUSIC BANDS):
+
+
+{
+    "name" : "Muse",
+    "date_of_formation" : "1994-01-01T00:00:00",
+    "members" : 4,
+    "albums" : ["Showbiz", "The Resistance", "Drones", "Simulation Theory"]
+}
+
+{
+    "name" : "Imagine Dragons",
+    "date_of_formation" : "2008-01-01T00:00:00",
+    "members" : 4,
+    "albums" : ["Night Visions", "Smoke & Mirrors", "Loom"]
+}
+
+{
+    "name" : "Nirvana",
+    "date_of_formation" : "1987-01-01T00:00:00",
+    "members" : 3,
+    "albums" : ["Nevermind", "Unplugged In New York", "With The Lights Out"]
+}
+
+{
+    "name" : "Twenty One Pilots",
+    "date_of_formation" : "2009-01-01T00:00:00",
+    "members" : 2,
+    "albums" : ["Blurryface", "Heathens"]
+}
+
+{
+    "name" : "Cigarettes After Sex",
+    "date_of_formation" : "2008-01-01T00:00:00",
+    "members" : 3,
+    "albums" : ["Affection", "Apocalypse"]
+}
+
+{
+    "name" : "Guns N' Roses",
+    "date_of_formation" : "1985-01-01T00:00:00",
+    "members" : 7,
+    "albums" : ["Appetite for Destruction", "Use Your Illusion I", "The Spaghetti Incident?"]
+}
+
+
+-------------------------------------------------------------------
+
+Data for Neo4J database (USERS):
+
+
+{
+    "name" : "Maria",
+    "favorite_bands" : ["Muse", "Cigarettes After Sex", "Guns N' Roses"]
+}
+
+{
+    "name" : "Bill",
+    "favorite_bands" : ["Twenty One Pilots", "Nirvana"]
+}
+
+{
+    "name" : "Jessica",
+    "favorite_bands" : ["Cigarettes After Sex", "Muse"]
+}
+
+{
+    "name" : "Michael",
+    "favorite_bands" : ["Muse"]
+}
+
+{
+    "name" : "Rhea",
+    "favorite_bands" : ["Nirvana", "Twenty One Pilots", "Imagine Dragons"]
+}
+
+{
+    "name" : "Hannah",
+    "favorite_bands" : ["Imagine Dragons"]
+}
+
+{
+    "name" : "Alan",
+    "favorite_bands" : ["Cigarettes After Sex", "Imagine Dragons", "Guns N' Roses"]
+}
+
+{
+    "name" : "Damian",
+    "favorite_bands" : ["Nirvana", "Guns N' Roses", "Twenty One Pilots"]
+}
